@@ -7,3 +7,9 @@
 ### Output
 --------------------------------------
 If everything runs without problems the output will be:
+
+<img src="detected_fruits.jpg" width="256" height="540">
+
+### Acknowledgement
+--------------------------------------
+I would like to thank [Sayak Paul](https://github.com/sayakpaul) for his original notebooks and [github repo](https://github.com/sayakpaul/E2E-Object-Detection-in-TFLite) showing how to train a custom detection model with the TFOD API (TF2 and TF1), optimize it with TFLite, and perform inference with the optimized model.
