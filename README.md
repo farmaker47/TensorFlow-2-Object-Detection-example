@@ -8,7 +8,7 @@
 --------------------------------------
 If everything runs without problems the output will be:
 
-<img src="detected_fruits.jpg" width="256" height="540">
+<img src="detected_fruits.JPG" width="540" height="256">
 
 ### Acknowledgement
 --------------------------------------
